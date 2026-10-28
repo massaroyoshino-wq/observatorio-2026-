@@ -1,0 +1,15 @@
+{
+  "name": "Observatório de Apoios e Eventos 2026",
+  "short_name": "Observatório 2026",
+  "id": "./",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#091617",
+  "theme_color": "#102629",
+  "lang": "pt-BR",
+  "description": "Consulta documental de manifestações públicas e participações em eventos políticos de 2026.",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
