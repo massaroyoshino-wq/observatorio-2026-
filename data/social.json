@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
+  "checkedAt": "2026-10-28T11:31:46Z",
   "updatedAt": null,
-  "status": "Aguardando primeira coleta.",
+  "status": "URLs indexadas não verificadas; revisão humana obrigatória. Falhas de consulta: 0.",
   "items": []
 }
