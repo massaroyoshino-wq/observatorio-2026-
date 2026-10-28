@@ -47,6 +47,8 @@ jobs:
           mkdir -p public/data
           cp index.html manifest.webmanifest sw.js icon-192.png icon-512.png public/
           cp data/registry.json data/news.json data/social.json public/data/
+          python -m pip install -q pillow
+          python -c "from PIL import Image; Image.open('icon-192.png').resize((512,512)).save('public/icon-512.png',optimize=True)"
           touch public/.nojekyll
       - name: Empacotar site
         uses: actions/upload-pages-artifact@v3
