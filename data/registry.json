@@ -1,0 +1,960 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-27",
+  "scope": "Eleição presidencial brasileira de 2026 — fontes públicas",
+  "records": [
+    {
+      "id": "l-cia-livraria",
+      "name": "Lúcia Livraria",
+      "sector": "Livrarias",
+      "state": "ES",
+      "city": "",
+      "person": "Elisa Quadros",
+      "evidence": [
+        {
+          "type": "apoio_estabelecimento",
+          "summary": "Estabelecimento citado como integrante do movimento coletivo de livrarias de apoio à candidatura de Lula em 2026.",
+          "date": "2026-10-22",
+          "sourceName": "Folha de S.Paulo",
+          "sourceUrl": "https://www1.folha.uol.com.br/colunas/walter-porto/2026/10/livrarias-articulam-movimento-inedito-pro-lula-entidades-do-livro-nao-se-posicionam.shtml",
+          "scope": "Manifestação pública do estabelecimento"
+        }
+      ]
+    },
+    {
+      "id": "aigo",
+      "name": "Aigo",
+      "sector": "Livrarias",
+      "state": "SP",
+      "city": "",
+      "person": "Agatha Kim",
+      "evidence": [
+        {
+          "type": "apoio_estabelecimento",
+          "summary": "Estabelecimento citado como integrante do movimento coletivo de livrarias de apoio à candidatura de Lula em 2026.",
+          "date": "2026-10-14",
+          "sourceName": "Boletim Tatuí",
+          "sourceUrl": "https://boletimtatui.substack.com/p/livrarias-declaram-apoio-a-lula",
+          "scope": "Manifestação pública do estabelecimento"
+        }
+      ]
+    },
+    {
+      "id": "megafauna",
+      "name": "Megafauna",
+      "sector": "Livrarias",
+      "state": "SP",
+      "city": "",
+      "person": "",
+      "evidence": [
+        {
+          "type": "apoio_estabelecimento",
+          "summary": "Estabelecimento citado como integrante do movimento coletivo de livrarias de apoio à candidatura de Lula em 2026.",
+          "date": "2026-10-14",
+          "sourceName": "Boletim Tatuí",
+          "sourceUrl": "https://boletimtatui.substack.com/p/livrarias-declaram-apoio-a-lula",
+          "scope": "Manifestação pública do estabelecimento"
+        }
+      ]
+    },
+    {
+      "id": "bibla",
+      "name": "Bibla",
+      "sector": "Livrarias",
+      "state": "SP",
+      "city": "",
+      "person": "",
+      "evidence": [
+        {
+          "type": "apoio_estabelecimento",
+          "summary": "Estabelecimento citado como integrante do movimento coletivo de livrarias de apoio à candidatura de Lula em 2026.",
+          "date": "2026-10-22",
+          "sourceName": "Folha de S.Paulo",
+          "sourceUrl": "https://www1.folha.uol.com.br/colunas/walter-porto/2026/10/livrarias-articulam-movimento-inedito-pro-lula-entidades-do-livro-nao-se-posicionam.shtml",
+          "scope": "Manifestação pública do estabelecimento"
+        }
+      ]
+    },
+    {
+      "id": "livraria-martins-fontes",
+      "name": "Livraria Martins Fontes",
+      "sector": "Livrarias",
+      "state": "SP",
+      "city": "",
+      "person": "Alexandre Martins Fontes",
+      "evidence": [
+        {
+          "type": "apoio_estabelecimento",
+          "summary": "Estabelecimento citado como integrante do movimento coletivo de livrarias de apoio à candidatura de Lula em 2026.",
+          "date": "2026-10-22",
+          "sourceName": "Folha de S.Paulo",
+          "sourceUrl": "https://www1.folha.uol.com.br/colunas/walter-porto/2026/10/livrarias-articulam-movimento-inedito-pro-lula-entidades-do-livro-nao-se-posicionam.shtml",
+          "scope": "Manifestação pública do estabelecimento"
+        }
+      ]
+    },
+    {
+      "id": "banca-tatu-",
+      "name": "Banca Tatuí",
+      "sector": "Livrarias",
+      "state": "SP",
+      "city": "",
+      "person": "",
+      "evidence": [
+        {
+          "type": "apoio_estabelecimento",
+          "summary": "Estabelecimento citado como integrante do movimento coletivo de livrarias de apoio à candidatura de Lula em 2026.",
+          "date": "2026-10-14",
+          "sourceName": "Boletim Tatuí",
+          "sourceUrl": "https://boletimtatui.substack.com/p/livrarias-declaram-apoio-a-lula",
+          "scope": "Manifestação pública do estabelecimento"
+        }
+      ]
+    },
+    {
+      "id": "livraria-gr-fica",
+      "name": "Livraria Gráfica",
+      "sector": "Livrarias",
+      "state": "SP",
+      "city": "",
+      "person": "",
+      "evidence": [
+        {
+          "type": "apoio_estabelecimento",
+          "summary": "Estabelecimento citado como integrante do movimento coletivo de livrarias de apoio à candidatura de Lula em 2026.",
+          "date": "2026-10-14",
+          "sourceName": "Boletim Tatuí",
+          "sourceUrl": "https://boletimtatui.substack.com/p/livrarias-declaram-apoio-a-lula",
+          "scope": "Manifestação pública do estabelecimento"
+        }
+      ]
+    },
+    {
+      "id": "ponta-de-lan-a",
+      "name": "Ponta de Lança",
+      "sector": "Livrarias",
+      "state": "SP",
+      "city": "",
+      "person": "",
+      "evidence": [
+        {
+          "type": "apoio_estabelecimento",
+          "summary": "Estabelecimento citado como integrante do movimento coletivo de livrarias de apoio à candidatura de Lula em 2026.",
+          "date": "2026-10-14",
+          "sourceName": "Boletim Tatuí",
+          "sourceUrl": "https://boletimtatui.substack.com/p/livrarias-declaram-apoio-a-lula",
+          "scope": "Manifestação pública do estabelecimento"
+        }
+      ]
+    },
+    {
+      "id": "baleia",
+      "name": "Baleia",
+      "sector": "Livrarias",
+      "state": "RS",
+      "city": "",
+      "person": "",
+      "evidence": [
+        {
+          "type": "apoio_estabelecimento",
+          "summary": "Estabelecimento citado como integrante do movimento coletivo de livrarias de apoio à candidatura de Lula em 2026.",
+          "date": "2026-10-22",
+          "sourceName": "Folha de S.Paulo",
+          "sourceUrl": "https://www1.folha.uol.com.br/colunas/walter-porto/2026/10/livrarias-articulam-movimento-inedito-pro-lula-entidades-do-livro-nao-se-posicionam.shtml",
+          "scope": "Manifestação pública do estabelecimento"
+        }
+      ]
+    },
+    {
+      "id": "taverna",
+      "name": "Taverna",
+      "sector": "Livrarias",
+      "state": "RS",
+      "city": "",
+      "person": "",
+      "evidence": [
+        {
+          "type": "apoio_estabelecimento",
+          "summary": "Estabelecimento citado como integrante do movimento coletivo de livrarias de apoio à candidatura de Lula em 2026.",
+          "date": "2026-10-22",
+          "sourceName": "Folha de S.Paulo",
+          "sourceUrl": "https://www1.folha.uol.com.br/colunas/walter-porto/2026/10/livrarias-articulam-movimento-inedito-pro-lula-entidades-do-livro-nao-se-posicionam.shtml",
+          "scope": "Manifestação pública do estabelecimento"
+        }
+      ]
+    },
+    {
+      "id": "blooks",
+      "name": "Blooks",
+      "sector": "Livrarias",
+      "state": "RJ",
+      "city": "",
+      "person": "",
+      "evidence": [
+        {
+          "type": "apoio_estabelecimento",
+          "summary": "Estabelecimento citado como integrante do movimento coletivo de livrarias de apoio à candidatura de Lula em 2026.",
+          "date": "2026-10-22",
+          "sourceName": "Folha de S.Paulo",
+          "sourceUrl": "https://www1.folha.uol.com.br/colunas/walter-porto/2026/10/livrarias-articulam-movimento-inedito-pro-lula-entidades-do-livro-nao-se-posicionam.shtml",
+          "scope": "Manifestação pública do estabelecimento"
+        }
+      ]
+    },
+    {
+      "id": "leonardo-da-vinci",
+      "name": "Leonardo da Vinci",
+      "sector": "Livrarias",
+      "state": "RJ",
+      "city": "",
+      "person": "",
+      "evidence": [
+        {
+          "type": "apoio_estabelecimento",
+          "summary": "Estabelecimento citado como integrante do movimento coletivo de livrarias de apoio à candidatura de Lula em 2026.",
+          "date": "2026-10-22",
+          "sourceName": "Folha de S.Paulo",
+          "sourceUrl": "https://www1.folha.uol.com.br/colunas/walter-porto/2026/10/livrarias-articulam-movimento-inedito-pro-lula-entidades-do-livro-nao-se-posicionam.shtml",
+          "scope": "Manifestação pública do estabelecimento"
+        }
+      ]
+    },
+    {
+      "id": "circulares",
+      "name": "Circulares",
+      "sector": "Livrarias",
+      "state": "DF",
+      "city": "",
+      "person": "",
+      "evidence": [
+        {
+          "type": "apoio_estabelecimento",
+          "summary": "Estabelecimento citado como integrante do movimento coletivo de livrarias de apoio à candidatura de Lula em 2026.",
+          "date": "2026-10-22",
+          "sourceName": "Folha de S.Paulo",
+          "sourceUrl": "https://www1.folha.uol.com.br/colunas/walter-porto/2026/10/livrarias-articulam-movimento-inedito-pro-lula-entidades-do-livro-nao-se-posicionam.shtml",
+          "scope": "Manifestação pública do estabelecimento"
+        }
+      ]
+    },
+    {
+      "id": "ldm",
+      "name": "LDM",
+      "sector": "Livrarias",
+      "state": "BA",
+      "city": "",
+      "person": "",
+      "evidence": [
+        {
+          "type": "apoio_estabelecimento",
+          "summary": "Estabelecimento citado como integrante do movimento coletivo de livrarias de apoio à candidatura de Lula em 2026.",
+          "date": "2026-10-22",
+          "sourceName": "Folha de S.Paulo",
+          "sourceUrl": "https://www1.folha.uol.com.br/colunas/walter-porto/2026/10/livrarias-articulam-movimento-inedito-pro-lula-entidades-do-livro-nao-se-posicionam.shtml",
+          "scope": "Manifestação pública do estabelecimento"
+        }
+      ]
+    },
+    {
+      "id": "hamor",
+      "name": "Hamor",
+      "sector": "Livrarias",
+      "state": "MS",
+      "city": "",
+      "person": "",
+      "evidence": [
+        {
+          "type": "apoio_estabelecimento",
+          "summary": "Estabelecimento citado como integrante do movimento coletivo de livrarias de apoio à candidatura de Lula em 2026.",
+          "date": "2026-10-22",
+          "sourceName": "Folha de S.Paulo",
+          "sourceUrl": "https://www1.folha.uol.com.br/colunas/walter-porto/2026/10/livrarias-articulam-movimento-inedito-pro-lula-entidades-do-livro-nao-se-posicionam.shtml",
+          "scope": "Manifestação pública do estabelecimento"
+        }
+      ]
+    },
+    {
+      "id": "grupo-j-mac-do",
+      "name": "Grupo J. Macêdo",
+      "sector": "Alimentos",
+      "state": "CE",
+      "city": "",
+      "person": "Amarílio Macêdo",
+      "evidence": [
+        {
+          "type": "apoio_individual",
+          "summary": "Pessoa vinculada à atividade empresarial citada como signatária do Manifesto Pró-Brasil, que declarou apoio a Lula em 2026.",
+          "date": "2026-10-24",
+          "sourceName": "Leia Sempre Brasil",
+          "sourceUrl": "https://leiasemprebrasil.com.br/2026/10/24/amarilio-macedo-vilmar-ferreira-ticiana-rolim-e-outras-personalidades-lancam-manifesto-pro-lula/",
+          "scope": "Apoio da pessoa; não implica posicionamento institucional da empresa"
+        }
+      ]
+    },
+    {
+      "id": "grupo-a-o-cearense",
+      "name": "Grupo Aço Cearense",
+      "sector": "Siderurgia",
+      "state": "CE",
+      "city": "",
+      "person": "Vilmar Ferreira",
+      "evidence": [
+        {
+          "type": "apoio_individual",
+          "summary": "Pessoa vinculada à atividade empresarial citada como signatária do Manifesto Pró-Brasil, que declarou apoio a Lula em 2026.",
+          "date": "2026-10-24",
+          "sourceName": "Leia Sempre Brasil",
+          "sourceUrl": "https://leiasemprebrasil.com.br/2026/10/24/amarilio-macedo-vilmar-ferreira-ticiana-rolim-e-outras-personalidades-lancam-manifesto-pro-lula/",
+          "scope": "Apoio da pessoa; não implica posicionamento institucional da empresa"
+        }
+      ]
+    },
+    {
+      "id": "somos-um-holding-social",
+      "name": "Somos Um — Holding Social",
+      "sector": "Investimentos / impacto",
+      "state": "CE",
+      "city": "",
+      "person": "Ticiana Rolim",
+      "evidence": [
+        {
+          "type": "apoio_individual",
+          "summary": "Pessoa vinculada à atividade empresarial citada como signatária do Manifesto Pró-Brasil, que declarou apoio a Lula em 2026.",
+          "date": "2026-10-24",
+          "sourceName": "Leia Sempre Brasil",
+          "sourceUrl": "https://leiasemprebrasil.com.br/2026/10/24/amarilio-macedo-vilmar-ferreira-ticiana-rolim-e-outras-personalidades-lancam-manifesto-pro-lula/",
+          "scope": "Apoio da pessoa; não implica posicionamento institucional da empresa"
+        }
+      ]
+    },
+    {
+      "id": "ga-da-dias-atua-o-empresarial",
+      "name": "Gaída Dias — atuação empresarial",
+      "sector": "Empreendedorismo",
+      "state": "—",
+      "city": "",
+      "person": "Gaída Dias",
+      "evidence": [
+        {
+          "type": "apoio_individual",
+          "summary": "Pessoa vinculada à atividade empresarial citada como signatária do Manifesto Pró-Brasil, que declarou apoio a Lula em 2026.",
+          "date": "2026-10-24",
+          "sourceName": "Leia Sempre Brasil",
+          "sourceUrl": "https://leiasemprebrasil.com.br/2026/10/24/amarilio-macedo-vilmar-ferreira-ticiana-rolim-e-outras-personalidades-lancam-manifesto-pro-lula/",
+          "scope": "Apoio da pessoa; não implica posicionamento institucional da empresa"
+        }
+      ]
+    },
+    {
+      "id": "risotropical-publica",
+      "name": "Risotropical / Publica",
+      "sector": "Impressos / design",
+      "state": "SP",
+      "city": "São Paulo",
+      "person": "",
+      "evidence": [
+        {
+          "type": "apoio_estabelecimento",
+          "summary": "Publicação do perfil @risotropical reproduzida em arquivo público, que pede votos em Lula e divulga cartazes na loja. A postagem original não pôde ser consultada diretamente nesta verificação.",
+          "date": "2026-09-19",
+          "sourceName": "Instagram @risotropical (cópia pública por Imginn)",
+          "sourceUrl": "https://imginn.com/p/DdeaZcSnDKT/",
+          "scope": "Postagem pública da marca",
+          "sourcePlatform": "instagram"
+        }
+      ]
+    },
+    {
+      "id": "coteminas",
+      "name": "Coteminas",
+      "sector": "Têxtil",
+      "state": "MG",
+      "city": "",
+      "person": "Josué Gomes",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Empresário listado entre os 16 representantes do setor privado em jantar com Lula no Palácio da Alvorada em 31/08. Presença não equivale a apoio eleitoral.",
+          "date": "2026-08-31",
+          "sourceName": "Metrópoles",
+          "sourceUrl": "https://www.metropoles.com/brasil/lula-recebe-empresarios-e-banqueiros-no-alvorada-veja-lista-de-presenca",
+          "scope": "Participação em reunião; sem comprovação de endosso"
+        }
+      ]
+    },
+    {
+      "id": "btg-pactual",
+      "name": "BTG Pactual",
+      "sector": "Bancos / finanças",
+      "state": "SP",
+      "city": "",
+      "person": "André Esteves",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Empresário listado entre os 16 representantes do setor privado em jantar com Lula no Palácio da Alvorada em 31/08. Presença não equivale a apoio eleitoral.",
+          "date": "2026-08-31",
+          "sourceName": "Metrópoles",
+          "sourceUrl": "https://www.metropoles.com/brasil/lula-recebe-empresarios-e-banqueiros-no-alvorada-veja-lista-de-presenca",
+          "scope": "Participação em reunião; sem comprovação de endosso"
+        }
+      ]
+    },
+    {
+      "id": "bradesco",
+      "name": "Bradesco",
+      "sector": "Bancos / finanças",
+      "state": "SP",
+      "city": "",
+      "person": "Luiz Carlos Trabuco Cappi",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Empresário listado entre os 16 representantes do setor privado em jantar com Lula no Palácio da Alvorada em 31/08. Presença não equivale a apoio eleitoral.",
+          "date": "2026-08-31",
+          "sourceName": "Metrópoles",
+          "sourceUrl": "https://www.metropoles.com/brasil/lula-recebe-empresarios-e-banqueiros-no-alvorada-veja-lista-de-presenca",
+          "scope": "Participação em reunião; sem comprovação de endosso"
+        }
+      ]
+    },
+    {
+      "id": "cosan",
+      "name": "Cosan",
+      "sector": "Energia / infraestrutura",
+      "state": "SP",
+      "city": "",
+      "person": "Rubens Ometto",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Empresário listado entre os 16 representantes do setor privado em jantar com Lula no Palácio da Alvorada em 31/08. Presença não equivale a apoio eleitoral.",
+          "date": "2026-08-31",
+          "sourceName": "Metrópoles",
+          "sourceUrl": "https://www.metropoles.com/brasil/lula-recebe-empresarios-e-banqueiros-no-alvorada-veja-lista-de-presenca",
+          "scope": "Participação em reunião; sem comprovação de endosso"
+        },
+        {
+          "type": "evento",
+          "summary": "Executivo identificado em encontro do Esfera Brasil e parceiros com Lula em São Paulo. Evento voltado a temas econômicos, sem equivalência automática com apoio eleitoral.",
+          "date": "2026-09-25",
+          "sourceName": "Folha de S.Paulo",
+          "sourceUrl": "https://c-level.folha.uol.com.br/negocios/2026/09/lula-encontra-empresarios-em-evento-em-sao-paulo-apos-proibir-bets.shtml",
+          "scope": "Participação em evento de diálogo econômico"
+        }
+      ]
+    },
+    {
+      "id": "jbs",
+      "name": "JBS",
+      "sector": "Alimentos",
+      "state": "SP",
+      "city": "",
+      "person": "Joesley Batista",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Empresário listado entre os 16 representantes do setor privado em jantar com Lula no Palácio da Alvorada em 31/08. Presença não equivale a apoio eleitoral.",
+          "date": "2026-08-31",
+          "sourceName": "Metrópoles",
+          "sourceUrl": "https://www.metropoles.com/brasil/lula-recebe-empresarios-e-banqueiros-no-alvorada-veja-lista-de-presenca",
+          "scope": "Participação em reunião; sem comprovação de endosso"
+        },
+        {
+          "type": "evento",
+          "summary": "Executivo identificado em encontro do Esfera Brasil e parceiros com Lula em São Paulo. Evento voltado a temas econômicos, sem equivalência automática com apoio eleitoral.",
+          "date": "2026-09-25",
+          "sourceName": "Folha de S.Paulo",
+          "sourceUrl": "https://c-level.folha.uol.com.br/negocios/2026/09/lula-encontra-empresarios-em-evento-em-sao-paulo-apos-proibir-bets.shtml",
+          "scope": "Participação em evento de diálogo econômico"
+        }
+      ]
+    },
+    {
+      "id": "amil",
+      "name": "Amil",
+      "sector": "Saúde",
+      "state": "SP",
+      "city": "",
+      "person": "José Seripieri Filho",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Empresário listado entre os 16 representantes do setor privado em jantar com Lula no Palácio da Alvorada em 31/08. Presença não equivale a apoio eleitoral.",
+          "date": "2026-08-31",
+          "sourceName": "Metrópoles",
+          "sourceUrl": "https://www.metropoles.com/brasil/lula-recebe-empresarios-e-banqueiros-no-alvorada-veja-lista-de-presenca",
+          "scope": "Participação em reunião; sem comprovação de endosso"
+        }
+      ]
+    },
+    {
+      "id": "gol-linhas-a-reas",
+      "name": "Gol Linhas Aéreas",
+      "sector": "Aviação",
+      "state": "SP",
+      "city": "",
+      "person": "Henrique Constantino",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Empresário listado entre os 16 representantes do setor privado em jantar com Lula no Palácio da Alvorada em 31/08. Presença não equivale a apoio eleitoral.",
+          "date": "2026-08-31",
+          "sourceName": "Metrópoles",
+          "sourceUrl": "https://www.metropoles.com/brasil/lula-recebe-empresarios-e-banqueiros-no-alvorada-veja-lista-de-presenca",
+          "scope": "Participação em reunião; sem comprovação de endosso"
+        }
+      ]
+    },
+    {
+      "id": "gerdau",
+      "name": "Gerdau",
+      "sector": "Siderurgia",
+      "state": "RS",
+      "city": "",
+      "person": "André Gerdau Johannpeter",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Empresário listado entre os 16 representantes do setor privado em jantar com Lula no Palácio da Alvorada em 31/08. Presença não equivale a apoio eleitoral.",
+          "date": "2026-08-31",
+          "sourceName": "Metrópoles",
+          "sourceUrl": "https://www.metropoles.com/brasil/lula-recebe-empresarios-e-banqueiros-no-alvorada-veja-lista-de-presenca",
+          "scope": "Participação em reunião; sem comprovação de endosso"
+        }
+      ]
+    },
+    {
+      "id": "mrv-engenharia",
+      "name": "MRV Engenharia",
+      "sector": "Construção",
+      "state": "MG",
+      "city": "",
+      "person": "Rubens Menin",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Empresário listado entre os 16 representantes do setor privado em jantar com Lula no Palácio da Alvorada em 31/08. Presença não equivale a apoio eleitoral.",
+          "date": "2026-08-31",
+          "sourceName": "Metrópoles",
+          "sourceUrl": "https://www.metropoles.com/brasil/lula-recebe-empresarios-e-banqueiros-no-alvorada-veja-lista-de-presenca",
+          "scope": "Participação em reunião; sem comprovação de endosso"
+        }
+      ]
+    },
+    {
+      "id": "grupo-bom-futuro",
+      "name": "Grupo Bom Futuro",
+      "sector": "Agronegócio",
+      "state": "MT",
+      "city": "",
+      "person": "Eraí Maggi",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Empresário listado entre os 16 representantes do setor privado em jantar com Lula no Palácio da Alvorada em 31/08. Presença não equivale a apoio eleitoral.",
+          "date": "2026-08-31",
+          "sourceName": "Metrópoles",
+          "sourceUrl": "https://www.metropoles.com/brasil/lula-recebe-empresarios-e-banqueiros-no-alvorada-veja-lista-de-presenca",
+          "scope": "Participação em reunião; sem comprovação de endosso"
+        }
+      ]
+    },
+    {
+      "id": "votorantim-cimentos",
+      "name": "Votorantim Cimentos",
+      "sector": "Materiais de construção",
+      "state": "SP",
+      "city": "",
+      "person": "Fábio Ermírio de Moraes",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Empresário listado entre os 16 representantes do setor privado em jantar com Lula no Palácio da Alvorada em 31/08. Presença não equivale a apoio eleitoral.",
+          "date": "2026-08-31",
+          "sourceName": "Metrópoles",
+          "sourceUrl": "https://www.metropoles.com/brasil/lula-recebe-empresarios-e-banqueiros-no-alvorada-veja-lista-de-presenca",
+          "scope": "Participação em reunião; sem comprovação de endosso"
+        }
+      ]
+    },
+    {
+      "id": "cutrale",
+      "name": "Cutrale",
+      "sector": "Agronegócio",
+      "state": "SP",
+      "city": "",
+      "person": "José Luís Cutrale Júnior",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Empresário listado entre os 16 representantes do setor privado em jantar com Lula no Palácio da Alvorada em 31/08. Presença não equivale a apoio eleitoral.",
+          "date": "2026-08-31",
+          "sourceName": "Metrópoles",
+          "sourceUrl": "https://www.metropoles.com/brasil/lula-recebe-empresarios-e-banqueiros-no-alvorada-veja-lista-de-presenca",
+          "scope": "Participação em reunião; sem comprovação de endosso"
+        }
+      ]
+    },
+    {
+      "id": "grupo-seb",
+      "name": "Grupo SEB",
+      "sector": "Educação",
+      "state": "SP",
+      "city": "",
+      "person": "Chaim Zaher",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Empresário listado entre os 16 representantes do setor privado em jantar com Lula no Palácio da Alvorada em 31/08. Presença não equivale a apoio eleitoral.",
+          "date": "2026-08-31",
+          "sourceName": "Metrópoles",
+          "sourceUrl": "https://www.metropoles.com/brasil/lula-recebe-empresarios-e-banqueiros-no-alvorada-veja-lista-de-presenca",
+          "scope": "Participação em reunião; sem comprovação de endosso"
+        }
+      ]
+    },
+    {
+      "id": "ita-unibanco",
+      "name": "Itaú Unibanco",
+      "sector": "Bancos / finanças",
+      "state": "SP",
+      "city": "",
+      "person": "Roberto Setúbal; Milton Maluhy Filho",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Empresário listado entre os 16 representantes do setor privado em jantar com Lula no Palácio da Alvorada em 31/08. Presença não equivale a apoio eleitoral.",
+          "date": "2026-08-31",
+          "sourceName": "Metrópoles",
+          "sourceUrl": "https://www.metropoles.com/brasil/lula-recebe-empresarios-e-banqueiros-no-alvorada-veja-lista-de-presenca",
+          "scope": "Participação em reunião; sem comprovação de endosso"
+        },
+        {
+          "type": "evento",
+          "summary": "Executivo identificado em encontro do Esfera Brasil e parceiros com Lula em São Paulo. Evento voltado a temas econômicos, sem equivalência automática com apoio eleitoral.",
+          "date": "2026-09-25",
+          "sourceName": "Folha de S.Paulo",
+          "sourceUrl": "https://c-level.folha.uol.com.br/negocios/2026/09/lula-encontra-empresarios-em-evento-em-sao-paulo-apos-proibir-bets.shtml",
+          "scope": "Participação em evento de diálogo econômico"
+        }
+      ]
+    },
+    {
+      "id": "hypera-pharma",
+      "name": "Hypera Pharma",
+      "sector": "Saúde / farmacêutico",
+      "state": "SP",
+      "city": "",
+      "person": "João Alves de Queiroz Filho",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Empresário listado entre os 16 representantes do setor privado em jantar com Lula no Palácio da Alvorada em 31/08. Presença não equivale a apoio eleitoral.",
+          "date": "2026-08-31",
+          "sourceName": "Metrópoles",
+          "sourceUrl": "https://www.metropoles.com/brasil/lula-recebe-empresarios-e-banqueiros-no-alvorada-veja-lista-de-presenca",
+          "scope": "Participação em reunião; sem comprovação de endosso"
+        }
+      ]
+    },
+    {
+      "id": "br-partners",
+      "name": "BR Partners",
+      "sector": "Bancos / finanças",
+      "state": "SP",
+      "city": "",
+      "person": "Ricardo Lacerda",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Empresário listado entre os 16 representantes do setor privado em jantar com Lula no Palácio da Alvorada em 31/08. Presença não equivale a apoio eleitoral.",
+          "date": "2026-08-31",
+          "sourceName": "Metrópoles",
+          "sourceUrl": "https://www.metropoles.com/brasil/lula-recebe-empresarios-e-banqueiros-no-alvorada-veja-lista-de-presenca",
+          "scope": "Participação em reunião; sem comprovação de endosso"
+        },
+        {
+          "type": "evento",
+          "summary": "Executivo identificado em encontro do Esfera Brasil e parceiros com Lula em São Paulo. Evento voltado a temas econômicos, sem equivalência automática com apoio eleitoral.",
+          "date": "2026-09-25",
+          "sourceName": "Folha de S.Paulo",
+          "sourceUrl": "https://c-level.folha.uol.com.br/negocios/2026/09/lula-encontra-empresarios-em-evento-em-sao-paulo-apos-proibir-bets.shtml",
+          "scope": "Participação em evento de diálogo econômico"
+        }
+      ]
+    },
+    {
+      "id": "vale",
+      "name": "Vale",
+      "sector": "Mineração",
+      "state": "RJ",
+      "city": "",
+      "person": "Gustavo Pimenta",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Executivo identificado em encontro do Esfera Brasil e parceiros com Lula em São Paulo. Evento voltado a temas econômicos, sem equivalência automática com apoio eleitoral.",
+          "date": "2026-09-25",
+          "sourceName": "Folha de S.Paulo",
+          "sourceUrl": "https://c-level.folha.uol.com.br/negocios/2026/09/lula-encontra-empresarios-em-evento-em-sao-paulo-apos-proibir-bets.shtml",
+          "scope": "Participação em evento de diálogo econômico"
+        }
+      ]
+    },
+    {
+      "id": "axia-energia",
+      "name": "Axia Energia",
+      "sector": "Energia",
+      "state": "RJ",
+      "city": "",
+      "person": "Ivan Monteiro",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Executivo identificado em encontro do Esfera Brasil e parceiros com Lula em São Paulo. Evento voltado a temas econômicos, sem equivalência automática com apoio eleitoral.",
+          "date": "2026-09-25",
+          "sourceName": "Folha de S.Paulo",
+          "sourceUrl": "https://c-level.folha.uol.com.br/negocios/2026/09/lula-encontra-empresarios-em-evento-em-sao-paulo-apos-proibir-bets.shtml",
+          "scope": "Participação em evento de diálogo econômico"
+        }
+      ]
+    },
+    {
+      "id": "edp",
+      "name": "EDP",
+      "sector": "Energia",
+      "state": "SP",
+      "city": "",
+      "person": "João Brito Martins",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Executivo identificado em encontro do Esfera Brasil e parceiros com Lula em São Paulo. Evento voltado a temas econômicos, sem equivalência automática com apoio eleitoral.",
+          "date": "2026-09-25",
+          "sourceName": "Folha de S.Paulo",
+          "sourceUrl": "https://c-level.folha.uol.com.br/negocios/2026/09/lula-encontra-empresarios-em-evento-em-sao-paulo-apos-proibir-bets.shtml",
+          "scope": "Participação em evento de diálogo econômico"
+        }
+      ]
+    },
+    {
+      "id": "csn",
+      "name": "CSN",
+      "sector": "Siderurgia",
+      "state": "SP",
+      "city": "",
+      "person": "Benjamin Steinbruch",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Executivo identificado em reportagem sobre encontro de lideranças empresariais com Lula em 25/09. Participação não demonstra voto ou endosso da empresa.",
+          "date": "2026-09-25",
+          "sourceName": "Revista Nordeste",
+          "sourceUrl": "https://revistane.com.br/2026/09/26/jantar-com-lula-em-sp-tem-confirmados-mais-de-500-empresarios-e-evento-muda-ate-de-lugar/",
+          "scope": "Participação em encontro empresarial"
+        }
+      ]
+    },
+    {
+      "id": "santander",
+      "name": "Santander",
+      "sector": "Bancos / finanças",
+      "state": "SP",
+      "city": "",
+      "person": "Gilson Finkelsztein",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Executivo identificado em reportagem sobre encontro de lideranças empresariais com Lula em 25/09. Participação não demonstra voto ou endosso da empresa.",
+          "date": "2026-09-25",
+          "sourceName": "Revista Nordeste",
+          "sourceUrl": "https://revistane.com.br/2026/09/26/jantar-com-lula-em-sp-tem-confirmados-mais-de-500-empresarios-e-evento-muda-ate-de-lugar/",
+          "scope": "Participação em encontro empresarial"
+        }
+      ]
+    },
+    {
+      "id": "suzano",
+      "name": "Suzano",
+      "sector": "Papel e celulose",
+      "state": "SP",
+      "city": "",
+      "person": "David Feffer",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Executivo identificado em reportagem sobre encontro de lideranças empresariais com Lula em 25/09. Participação não demonstra voto ou endosso da empresa.",
+          "date": "2026-09-25",
+          "sourceName": "Revista Nordeste",
+          "sourceUrl": "https://revistane.com.br/2026/09/26/jantar-com-lula-em-sp-tem-confirmados-mais-de-500-empresarios-e-evento-muda-ate-de-lugar/",
+          "scope": "Participação em encontro empresarial"
+        }
+      ]
+    },
+    {
+      "id": "petz",
+      "name": "Petz",
+      "sector": "Varejo / animais",
+      "state": "SP",
+      "city": "",
+      "person": "Sérgio Zimerman",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Executivo identificado em reportagem sobre encontro de lideranças empresariais com Lula em 25/09. Participação não demonstra voto ou endosso da empresa.",
+          "date": "2026-09-25",
+          "sourceName": "Revista Nordeste",
+          "sourceUrl": "https://revistane.com.br/2026/09/26/jantar-com-lula-em-sp-tem-confirmados-mais-de-500-empresarios-e-evento-muda-ate-de-lugar/",
+          "scope": "Participação em encontro empresarial"
+        }
+      ]
+    },
+    {
+      "id": "porto",
+      "name": "Porto",
+      "sector": "Seguros",
+      "state": "SP",
+      "city": "",
+      "person": "Paulo Kakinoff",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Executivo identificado em reportagem sobre encontro de lideranças empresariais com Lula em 25/09. Participação não demonstra voto ou endosso da empresa.",
+          "date": "2026-09-25",
+          "sourceName": "Revista Nordeste",
+          "sourceUrl": "https://revistane.com.br/2026/09/26/jantar-com-lula-em-sp-tem-confirmados-mais-de-500-empresarios-e-evento-muda-ate-de-lugar/",
+          "scope": "Participação em encontro empresarial"
+        }
+      ]
+    },
+    {
+      "id": "motorola-brasil",
+      "name": "Motorola Brasil",
+      "sector": "Tecnologia",
+      "state": "SP",
+      "city": "",
+      "person": "Rodrigo Vidigal",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Executivo identificado em reportagem sobre encontro de lideranças empresariais com Lula em 25/09. Participação não demonstra voto ou endosso da empresa.",
+          "date": "2026-09-25",
+          "sourceName": "Revista Nordeste",
+          "sourceUrl": "https://revistane.com.br/2026/09/26/jantar-com-lula-em-sp-tem-confirmados-mais-de-500-empresarios-e-evento-muda-ate-de-lugar/",
+          "scope": "Participação em encontro empresarial"
+        }
+      ]
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "sector": "Tecnologia / varejo",
+      "state": "SP",
+      "city": "",
+      "person": "Cleber Moraes",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Executivo identificado em reportagem sobre encontro de lideranças empresariais com Lula em 25/09. Participação não demonstra voto ou endosso da empresa.",
+          "date": "2026-09-25",
+          "sourceName": "Revista Nordeste",
+          "sourceUrl": "https://revistane.com.br/2026/09/26/jantar-com-lula-em-sp-tem-confirmados-mais-de-500-empresarios-e-evento-muda-ate-de-lugar/",
+          "scope": "Participação em encontro empresarial"
+        }
+      ]
+    },
+    {
+      "id": "google-cloud",
+      "name": "Google Cloud",
+      "sector": "Tecnologia",
+      "state": "SP",
+      "city": "",
+      "person": "Milena Leal",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Executivo identificado em reportagem sobre encontro de lideranças empresariais com Lula em 25/09. Participação não demonstra voto ou endosso da empresa.",
+          "date": "2026-09-25",
+          "sourceName": "Revista Nordeste",
+          "sourceUrl": "https://revistane.com.br/2026/09/26/jantar-com-lula-em-sp-tem-confirmados-mais-de-500-empresarios-e-evento-muda-ate-de-lugar/",
+          "scope": "Participação em encontro empresarial"
+        }
+      ]
+    },
+    {
+      "id": "claro-brasil",
+      "name": "Claro Brasil",
+      "sector": "Telecomunicações",
+      "state": "SP",
+      "city": "",
+      "person": "Fábio Santana",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Executivo identificado em reportagem sobre encontro de lideranças empresariais com Lula em 25/09. Participação não demonstra voto ou endosso da empresa.",
+          "date": "2026-09-25",
+          "sourceName": "Revista Nordeste",
+          "sourceUrl": "https://revistane.com.br/2026/09/26/jantar-com-lula-em-sp-tem-confirmados-mais-de-500-empresarios-e-evento-muda-ate-de-lugar/",
+          "scope": "Participação em encontro empresarial"
+        }
+      ]
+    },
+    {
+      "id": "vibra-energia",
+      "name": "Vibra Energia",
+      "sector": "Energia / distribuição",
+      "state": "RJ",
+      "city": "",
+      "person": "Henry Hadid",
+      "evidence": [
+        {
+          "type": "evento",
+          "summary": "Executivo identificado em reportagem sobre encontro de lideranças empresariais com Lula em 25/09. Participação não demonstra voto ou endosso da empresa.",
+          "date": "2026-09-25",
+          "sourceName": "Revista Nordeste",
+          "sourceUrl": "https://revistane.com.br/2026/09/26/jantar-com-lula-em-sp-tem-confirmados-mais-de-500-empresarios-e-evento-muda-ate-de-lugar/",
+          "scope": "Participação em encontro empresarial"
+        }
+      ]
+    }
+  ],
+  "lists": [
+    {
+      "title": "Botucatu — lista de 43 referências",
+      "state": "SP",
+      "place": "Botucatu",
+      "date": "2026-10-27",
+      "description": "Notícia registra circulação de lista atribuída a comércios e profissionais, sem comprovar as preferências atribuídas.",
+      "sourceName": "Notícias Botucatu",
+      "sourceUrl": "https://noticiasbotucatu.com.br/2026/10/27/lista-pede-boicote-a-empresas-de-botucatu-que-seriam-apoiadoras-de-lula/"
+    },
+    {
+      "title": "Porto Velho — listas em redes sociais",
+      "state": "RO",
+      "place": "Porto Velho",
+      "date": "2026-10-27",
+      "description": "Veículo informa que teve acesso à lista e decidiu não reproduzir nomes por falta de confirmação e risco de exposição.",
+      "sourceName": "Painel Político",
+      "sourceUrl": "https://painelpolitico.com/listas-de-boicote-a-donos-que-votaram-no-pt-circulam-em-porto-velho"
+    },
+    {
+      "title": "Além Paraíba — mensagens encaminhadas",
+      "state": "MG",
+      "place": "Além Paraíba",
+      "date": "2026-10-26",
+      "description": "Mensagens de WhatsApp circularam com nomes de comerciantes e profissionais; não há confirmação dos apoios atribuídos.",
+      "sourceName": "Holofote Brasil",
+      "sourceUrl": "https://holofotebrasil.com.br/suposta-lista-sugere-boicote-a-comerciantes-e-prestadores-de-servicos-por-apoio-a-lula-em-alem-paraiba/"
+    },
+    {
+      "title": "Guajará-Mirim — boicote noticiado",
+      "state": "RO",
+      "place": "Guajará-Mirim",
+      "date": "2026-10-27",
+      "description": "Reportagem sobre lista de aproximadamente 30 referências; a lista por si só não confirma apoio. Uma proprietária fez declaração própria, catalogada separadamente.",
+      "sourceName": "Agora Porto Velho",
+      "sourceUrl": "https://www.agoraportovelho.com.br/noticia/empresarios-de-guajara-mirim-denunciam-campanha-de-boicote-por-posicionamento-politico-apos-reeleicao-de-lula"
+    }
+  ]
+}
